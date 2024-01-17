@@ -1,0 +1,46 @@
+body {
+
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    margin: 0px;
+}
+
+hr {
+    border-color: lightskyblue;
+}
+.container {
+    width: 500px;
+    margin: 10px auto;
+    /* background-color: lightskyblue; */
+}
+
+.details {
+    /* background-color: bisque; */
+    height: 150px;
+}
+
+.details img {
+    height: 150px;
+    float: left;
+    border-radius: 50%;
+}
+.content-details {
+    /* background-color: aqua; */
+    float: left;
+    list-style-type: none;
+    margin-top: 30px;
+}
+
+.cv_section {
+    /* background-color: lightcoral; */
+    padding-bottom: 20px;
+}
+
+.cv_section span {
+    display: block;
+}
